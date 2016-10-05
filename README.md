@@ -17,11 +17,9 @@ Choose which target to build with lunch.
 `$ lunch`  
       enter **13** for msm8974-userdebug  
       enter **14** for msm8974-user  
-
-      enter **1** for OnePlus X  
-      enter **2** for OnePlus One (not tested)  
 **[Build the code]**  
-Build everything with make. GNU make can handle parallel tasks with a -jN argument. (In my case: 8 threads/cores = `$make -j8`)  
+Build everything with make. GNU make can handle parallel tasks with a -jN argument.  
+(In my case: 8 threads/cores = `$make -j8`)  
 `$ make -j8`  
 **[Flash a Device]**  
 Let device enter fastboot mode, run  
