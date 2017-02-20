@@ -1,1 +1,18 @@
-
+{
+    "devices": [
+        {
+            "model": "eva",
+            "rom": "Ravi Tamada",
+            "dl_link": "ravi@gmail.com",
+            "install_notice": "xx-xx-xxxx,x - street, x - country",
+            "changelog" : "male"
+        },
+        {
+            "id": "c201",
+            "name": "Johnny Depp",
+            "email": "johnny_depp@gmail.com",
+            "address": "xx-xx-xxxx,x - street, x - country",
+            "gender" : "male"
+        }
+    ]
+}
