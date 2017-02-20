@@ -2,17 +2,17 @@
     "devices": [
         {
             "model": "eva",
-            "rom": "Ravi Tamada",
-            "dl_link": "ravi@gmail.com",
-            "install_notice": "xx-xx-xxxx,x - street, x - country",
-            "changelog" : "male"
+            "rom": "cm14.1_eva_test",
+            "dl_link": "test.com/dl/datei.zip",
+            "install_notice": " * data wipe is required",
+            "changelog" : "* test"
         },
         {
-            "id": "c201",
-            "name": "Johnny Depp",
-            "email": "johnny_depp@gmail.com",
-            "address": "xx-xx-xxxx,x - street, x - country",
-            "gender" : "male"
+            "model": "berlin",
+            "rom": "cm14.1_berlin_test",
+            "dl_link": "test.com/dl/datei.zip",
+            "install_notice": " * data wipe is required",
+            "changelog" : "* test"
         }
     ]
 }
