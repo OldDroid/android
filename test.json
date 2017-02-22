@@ -2,7 +2,7 @@
     "devices": [
         {
             "model": "eva",
-            "rom": "20170219",
+            "rom": "20170218",
             "dl_link": "test.com/dl/datei.zip",
             "install_notice": " * data wipe is required",
             "changelog" : "* test"
